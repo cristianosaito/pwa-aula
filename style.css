@@ -1,0 +1,36 @@
+body{
+    color: #000000;
+}
+
+header{
+    background-color: red;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+header h1{
+        color: #ffffff;
+
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+a:hover{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 2rem;
+    color: crimson;
+}
+h2{
+    font-size: 1.2rem;
+}
+p{
+    font-size: 1rem;
+    color: teal;
+}
+.foto{
+    width: 300px;
+    height: auto;
+}
